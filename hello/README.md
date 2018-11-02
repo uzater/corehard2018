@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/uzater/corehard2018.svg?branch=master)](https://travis-ci.org/uzater/corehard2018)
