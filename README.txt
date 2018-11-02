@@ -1,1 +1,0 @@
-CoreHard 2018
